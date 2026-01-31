@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+venv/
+env/
+.gemini/
+output/
+extraction.log
+models.txt
+debug_output.txt
